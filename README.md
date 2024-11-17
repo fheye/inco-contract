@@ -1,3 +1,5 @@
+### Contract
+0x2eC04B81Fcc10F536505a9c9800bf8F2dc4d0Fa5
 
 # Hardhat Template [![Open in Gitpod][gitpod-badge]][gitpod] [![Hardhat][hardhat-badge]][hardhat] [![License: MIT][license-badge]][license]
 
